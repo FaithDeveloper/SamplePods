@@ -1,0 +1,6 @@
+framework module SamplePods {
+  umbrella header "SamplePods-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SamplePods",
+  "version": "0.1.0",
+  "summary": "A short description of SamplePods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dev.faithpeople@gmail.com/SamplePods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dev.faithpeople@gmail.com": "dev.faithpeople@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dev.faithpeople@gmail.com/SamplePods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SamplePods/Classes/**/*"
+}
